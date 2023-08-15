@@ -1,2 +1,2 @@
 # RLL-Project-IPM-Group-2
-This repo contains RLL Project Angular, SpringBoot, DB Schema Codes
+This repo contains RLL Project Angular, SpringBoot, DB Schema, Testing Files
